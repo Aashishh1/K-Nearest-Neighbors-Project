@@ -1,4 +1,11 @@
-# 🚀 K-Nearest Neighbors (KNN) Project
+<div align='center'>
+  <img style="width:30%" src='https://github.com/user-attachments/assets/24651fb8-9413-4ee9-bfbd-33e2e77cfd8c'/>
+</div>
+
+
+<div align='center'> 
+  <h1> K-Nearest Neighbors (KNN) Project </h1> 
+</div>
 
 ## 🔍 Project Overview
 
@@ -111,8 +118,8 @@ weighted avg       0.83      0.83      0.83       300
 
 📌 **Key Visualizations:**
 
-- ![The dataframe to create a pairplot with the hue indicated by the TARGET CLASS column](https://github.com/27abhishek27/K-Nearest-Neighbors-Project/blob/main/K%20Nearest%20Neighbors%20Png/pairplot%20hue%20indicated%20by%20target%20class.png)
-- ![Error Rate vs K](https://github.com/27abhishek27/K-Nearest-Neighbors-Project/blob/main/K%20Nearest%20Neighbors%20Png/Knn%20model%20%20plot.png)
+- ![The dataframe to create a pairplot with the hue indicated by the TARGET CLASS column](https://github.com/Aashishh1/K-Nearest-Neighbors-Project/blob/main/K%20Nearest%20Neighbors%20Png/pairplot%20hue%20indicated%20by%20target%20class.png)
+- ![Error Rate vs K](https://github.com/Aashishh1/K-Nearest-Neighbors-Project/blob/main/K%20Nearest%20Neighbors%20Png/Knn%20model%20%20plot.png)
 
 ---
 
